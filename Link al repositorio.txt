@@ -1,1 +1,2 @@
-https://github.com/CristoferA/Tarea3_Python
+Original: https://github.com/CristoferA/Tarea3_Python
+Portafolio personal: https://github.com/FranciscoJavierSG/TallerPython-Tarea3
